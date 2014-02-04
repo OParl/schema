@@ -1,0 +1,12 @@
+{
+    "@context": {
+        "created": {
+            "@id": "http://oparl.org/schema/1.0/created",
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "last_modified": {
+            "@id": "http://oparl.org/schema/1.0/last_modified",
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+    }
+}
