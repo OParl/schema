@@ -1,5 +1,5 @@
 {
-    "name": {
-    	"@id": "http://schema.org/name"
+    "@context": {
+        "name": "http://schema.org/name"
     }
 }
