@@ -6,7 +6,7 @@ die maschinenlesbare Beschreibung zu den OParl Objekttypen erarbeitet.
 
 Die Ergebnisse sind persistent unter der URL
 
-   http://oparl.org/schema/<Version>/<Name>
+    http://oparl.org/schema/<Version>/<Name>
 
 abrufbar. Beispiel:
 
