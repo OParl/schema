@@ -1,0 +1,42 @@
+{
+    "oparl": "http://oparl.org/schema/1.0/",
+    "dc": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "ogc": "http://www.opengis.net/ont/geosparql#",
+    "prov": "http://www.w3.org/ns/prov#",
+    "schmorg": "http://schema.org/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "vcard": "http://www.w3.org/2006/vcard/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "@language": "de",
+    "created": {
+        "@id": "dc:created",
+        "@type": "xsd:dateTime"
+    },
+    "email": "vcard:email",
+    "familyName": "foaf:familyName",
+    "formOfAddress": {
+        "@id": "TODO",
+        "@type": "skos:Concept"
+    },
+    "gender": "vcard:hasGender",
+    "givenName": "foaf:givenName",
+    "hasMembership": "TODO",
+    "locality": {
+        "@id": "vcard:locality",
+        "@container": "@language"
+    },
+    "modified": {
+        "@id": "dc:modified",
+        "@type": "xsd:dateTime"
+    },
+    "name": "foaf:name",
+    "phone": "foaf:phone",
+    "postalCode": "schmorg:postalCode",
+    "status": {
+        "@id": "TODO",
+        "@type": "skos:Concept"
+    },
+    "streetAddress": "vcard:street-address",
+    "title": "foaf:title"
+}
