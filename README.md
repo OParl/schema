@@ -1,12 +1,16 @@
 OParl Schema
 ============
 
-Dieses Repository soll die Schema-Definitionen für Objekttypen entsprechend der [OParl-Spezifikation](https://github.com/OParl/specs) beherbergen.
+Hier wird, passend zur [OParl-Spezifikation](https://github.com/OParl/specs),
+die maschinenlesbare Beschreibung zu den OParl Objekttypen erarbeitet.
 
-Diese Definitionen sollen dann unter anderem vom [Validator](https://github.com/OParl/validator) genutzt werden, um APIs auf Konformität mit der OParl Spezifikation zu testen.
+Die Ergebnisse sind persistent unter der URL
 
-Beabsichtigt ist auch, dass die Schema-Definitionen unter persistenten URLs wie z.B.
+   http://oparl.org/schema/<Version>/<Name>
 
-http://oparl.org/schema/Person
+abrufbar. Beispiel:
 
-gehostet werden und dort sowohl menschen- als auch maschinenfreundlich zugänglich sind.
+    http://oparl.org/schema/1.0/Body
+    http://oparl.org/schema/1.0/Paper
+    http://oparl.org/schema/1.0/Person
+
