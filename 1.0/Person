@@ -8,6 +8,7 @@
     "skos": "http://www.w3.org/2004/02/skos/core#",
     "vcard": "http://www.w3.org/2006/vcard/ns#",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "todo:": "http://noexistent.tld/TODO/",
     "@language": "de",
     "created": {
         "@id": "dc:created",
@@ -16,12 +17,12 @@
     "email": "vcard:email",
     "familyName": "foaf:familyName",
     "formOfAddress": {
-        "@id": "TODO",
+        "@id": "todo:TODO",
         "@type": "skos:Concept"
     },
     "gender": "vcard:hasGender",
     "givenName": "foaf:givenName",
-    "hasMembership": "TODO",
+    "hasMembership": "todo:TODO",
     "locality": {
         "@id": "vcard:locality",
         "@container": "@language"
@@ -34,7 +35,7 @@
     "phone": "foaf:phone",
     "postalCode": "schmorg:postalCode",
     "status": {
-        "@id": "TODO",
+        "@id": "todo:TODO",
         "@type": "skos:Concept"
     },
     "streetAddress": "vcard:street-address",
