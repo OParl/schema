@@ -1,7 +1,7 @@
 {
-    "example": "http://example.com/",
-    "oparl": "http://oparl.org/specs/1.0/",
     "@context": {
-        "name": "http://schema.org/name"
+        "example": "http://example.com/",
+        "name": "http://schema.org/name",
+    	"oparl": "http://oparl.org/specs/1.0/"
     }
 }
