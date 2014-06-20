@@ -1,6 +1,6 @@
 {
     "example": "http://example.com/",
-    "oparl": "http://oparl.org/specs/1.0/"
+    "oparl": "http://oparl.org/specs/1.0/",
     "@context": {
         "name": "http://schema.org/name"
     }
