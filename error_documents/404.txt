@@ -1,7 +1,5 @@
 Error 404 - Resource Not Found
 
-The requested resource does not exist under this URL.
-
 Please refer to
 
     http://oparl.org/schema/1.0/
