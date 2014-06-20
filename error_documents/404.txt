@@ -1,0 +1,14 @@
+Error 404 - Resource Not Found
+
+The requested resource does not exist under this URL.
+
+Please refer to
+
+    http://oparl.org/schema/1.0/
+
+for a list of all available OParl 1.0 object type schemas
+and JSON-LD contexts. Refer to
+
+    http://oparl.org/schema/
+
+for a complete directory overview.
