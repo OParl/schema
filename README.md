@@ -1,3 +1,9 @@
+**Dieses Repository basiert auf einer alten Version von OParl und
+wird nicht mehr weiter entwickelt. Es verbleibt jedoch aus Gründen
+der Nachvollziehbarkeit auf GitHub.**
+
+----
+
 OParl Schema
 ============
 
